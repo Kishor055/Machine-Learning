@@ -1,5 +1,3 @@
-Next module: **Feature Scaling**. This README covers the theory, formulas, when to use each scaler, leakage prevention, Scikit-Learn implementations, practical examples, comparisons, exercises, and an end-to-end workflow.
-
 # 📏 Feature Scaling
 
 > **Feature Scaling = Transform Numerical Features → Comparable Scale → Stable Optimization → Better Model Performance**
