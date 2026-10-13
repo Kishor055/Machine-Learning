@@ -1,0 +1,26 @@
+Student_ID,Name,Age,Marks,Attendance,Department
+101,Rahul,20.0,85.0,92.0,Computer Science
+102,Priya,21.0,90.0,95.0,IT
+103,Amit,19.0,76.0,88.0,Electronics
+104,Sneha,20.0,88.0,91.0,Computer Science
+105,Rohan,22.0,67.0,80.0,Mechanical
+106,Neha,19.0,95.0,98.0,IT
+107,Karan,21.0,72.0,85.0,Computer Science
+108,Pooja,20.0,81.0,90.0,Electronics
+109,Arjun,22.0,78.0,83.0,Mechanical
+110,Anjali,19.0,93.0,96.0,IT
+111,Vikram,23.0,74.0,79.0,Computer Science
+112,Meera,20.0,,87.0,Electronics
+113,Sahil,,89.0,94.0,IT
+114,Isha,21.0,84.0,,Mechanical
+115,Manish,22.0,67.0,82.0,Computer Science
+116,Kavya,19.0,91.0,97.0,IT
+117,Dev,20.0,77.0,88.0,Electronics
+118,Riya,,86.0,91.0,Computer Science
+119,Om,21.0,,85.0,Mechanical
+120,Tanya,20.0,90.0,,IT
+102,Priya,21.0,90.0,95.0,IT
+105,Rohan,22.0,67.0,80.0,Mechanical
+109,,22.0,78.0,83.0,Mechanical
+113,Sahil,,89.0,94.0,
+117,Dev,20.0,,88.0,Electronics
